@@ -1,0 +1,7 @@
+.home-bg-container {
+  display: flex;
+  justify-content: space-around;
+}
+.clothes-image {
+  height: 30vh;
+}
